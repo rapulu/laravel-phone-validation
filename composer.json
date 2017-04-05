@@ -21,6 +21,6 @@
         "psr-4": {
             "rapulu\\laravelngphonepassword\\":"src"
         }
-    }
+    },
     "minimum-stability": "dev"
 }
