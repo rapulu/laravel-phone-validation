@@ -1,5 +1,5 @@
 <?php 
-namespace rapulu\laravelngphonepassword
+namespace rapulu\laravelngphonepassword;
 
 use Illuminate\Support\ServiceProvider;
 use Validator;
